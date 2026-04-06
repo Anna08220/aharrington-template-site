@@ -8,4 +8,4 @@ nav_order: 2
 Hi! My name is Anna Harrington
 
 - **Current role:** I am a Graduating Senior at Temple University.
-- **Interests:** Writing, Map drawing, Debate, and Maritime Law.
+- **Interests:** Writing, Creative Map Drawing, Debate, and Maritime Law.
