@@ -5,7 +5,7 @@ nav_order: 3
 
 # Projects
 
-Here are some of my favorite works:
+Projects I have Worked on:
 
 | Year | Project | Description |
 |------|----------|--------------|
