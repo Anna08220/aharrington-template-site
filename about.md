@@ -5,7 +5,7 @@ nav_order: 2
 
 # About Me
 
-I’m a geographer and educator passionate about mapping, cities, and design.
+Hi! My name is Anna Harrington
 
-- **Current role:** Professor of Urban Spatial Design in Japan  
-- **Interests:** Web mapping, spatial analysis, and creative geography 
+- **Current role:** I am a Graduating Senior at Temple University.
+- **Interests:** Writing, Map drawing, Debate, and Maritime Law.
